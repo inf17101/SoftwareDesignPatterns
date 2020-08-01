@@ -1,0 +1,6 @@
+.vscode
+*.hpp.gch
+*.h.gch
+*.out
+*.exe
+
